@@ -1,0 +1,90 @@
+75-Day AIML Challenge
+🔹 Phase 1: Fundamentals (Days 1–25)
+Goal: Understand core ML concepts and basic implementation with Python + scikit-learn.
+Day	Topic	Project
+1	Python for ML	NumPy, pandas, matplotlib hands-on
+2	Exploratory Data Analysis	EDA on Titanic Dataset
+3	Data Preprocessing	Preprocess diabetes dataset
+4	Supervised vs Unsupervised	Compare classification vs clustering
+5	Linear Regression	Predict house prices
+6	Evaluation Metrics (regression)	Implement MAE, MSE, R²
+7	Logistic Regression	Predict heart disease
+8	Evaluation Metrics (classification)	Confusion matrix, ROC, Precision/Recall
+9	Decision Trees	Classify Iris species
+10	Random Forest	Improve on Iris or Titanic
+11	SVM	Classify MNIST digits (binary first)
+12	KNN	Classify wine quality
+13	Naive Bayes	Spam classifier
+14	k-Means Clustering	Cluster customer segments
+15	PCA	Visualize MNIST in 2D
+16	Model Selection & Cross-Validation	GridSearch on Random Forest
+17	Feature Engineering	Feature creation for Titanic
+18	Handling Imbalanced Data	SMOTE on fraud detection dataset
+19	Time Series Basics	Line plot of stock prices
+20	Time Series Forecasting	Predict future sales with ARIMA
+21	Intro to NLP	Bag of Words on movie reviews
+22	Sentiment Analysis	Build simple movie review classifier
+23	Text Vectorization	TF-IDF on text dataset
+24	Mini Project 1	ML model on any Kaggle dataset
+25	Recap + Portfolio Upload	Document everything on GitHub
+🔸 Phase 2: Deep Learning (Days 26–50)
+Goal: Build and train neural networks using TensorFlow/Keras or PyTorch.
+Day	Topic	Project
+26	Neural Nets Intro	Build from scratch in NumPy
+27	TensorFlow Basics	Build basic model with TF
+28	Keras Layers & Model API	Classification on Fashion MNIST
+29	Activation Functions	Visualize ReLU, Sigmoid, Tanh
+30	Loss Functions	MSE, CrossEntropy implementation
+31	Optimizers	SGD vs Adam comparison
+32	CNNs - Basics	MNIST digit classification
+33	CNNs - Advanced	CIFAR-10 classification
+34	Data Augmentation	Apply to CIFAR or Fashion MNIST
+35	Transfer Learning	Use VGG16 or ResNet50
+36	Image Classification Project	Custom image dataset
+37	Intro to RNNs	Build character-level RNN
+38	LSTM	Text generation with LSTM
+39	GRU vs LSTM	Compare on same dataset
+40	Word Embeddings	Use GloVe with sentiment analysis
+41	Sequence Classification	Spam vs non-spam using RNN
+42	Transformer Basics	Implement scaled dot-product attention
+43	HuggingFace Models	Use BERT for QA or classification
+44	NLP Project	Sentiment or Named Entity Recognition
+45	GANs Intro	Generate handwritten digits
+46	GANs Advanced	DCGAN for fake face generation
+47	Project: Image Generation	Use GANs or Diffusion models
+48	Project: Text Classification	Custom text dataset
+49	Final Model Evaluation	Confusion matrix, AUC, etc.
+50	Recap + GitHub Push	Write blog post or readme
+🔺 Phase 3: Advanced + Deployment (Days 51–75)
+Goal: Learn MLOps, deployment, real-world problem-solving.
+Day	Topic	Project
+51	MLOps Intro	Learn ML pipeline stages
+52	Flask for ML	Deploy ML model as API
+53	Streamlit	ML dashboard for EDA
+54	FastAPI	Deploy DL model with FastAPI
+55	Docker Basics	Containerize ML model
+56	Model Monitoring	Log metrics using MLflow
+57	Google Colab vs AWS	Train large model on cloud
+58	AutoML	Use H2O.ai or Google AutoML
+59	Explainability - SHAP	Explain predictions
+60	Explainability - LIME	Visual explanations for image model
+61	Real-World Project 1	End-to-end image classification app
+62	Real-World Project 2	Fraud detection with deployment
+63	Real-World Project 3	Chatbot using NLP
+64	AI Ethics	Bias, fairness, and safety discussion
+65	Papers with Code	Read & implement 1 small paper
+66	Model Compression	Pruning or quantization demo
+67	Edge AI	TinyML basics
+68	Resume + GitHub Polish	Organize repositories
+69	LinkedIn Post	Share your challenge progress
+70	Kaggle Submission	Compete in an active competition
+71	Capstone Project Planning	Choose and start a final project
+72	Capstone Build 1	Data collection + preprocessing
+73	Capstone Build 2	Modeling + tuning
+74	Capstone Deployment	Deploy via Streamlit/Flask
+75	Final Showcase	Write blog + GitHub README
+🧰 Tools You'll Use:
+Languages: Python
+Frameworks: scikit-learn, TensorFlow/Keras, PyTorch, Hugging Face
+Deployment: Flask, Streamlit, FastAPI, Docker
+Platforms: Google Colab, Kaggle, GitHub, Hugging Face Spaces
