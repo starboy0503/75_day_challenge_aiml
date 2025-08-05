@@ -1,0 +1,29 @@
+ 1. Supervised vs Unsupervised Learning
+Feature	Supervised Learning	Unsupervised Learning
+🎯 Goal	Predict target/output variable	Discover hidden patterns
+✅ Has labels?	Yes (labeled data)	No (unlabeled data)
+🧠 Learns from	Input-output pairs	Input features only
+🧪 Example Tasks	Classification, Regression	Clustering, Dimensionality Reduction
+📘 Example Dataset	Diabetes dataset with Outcome	Customer data with no labels
+🧑‍🏫 Analogy	Teacher supervising learning	No teacher; self-learning
+
+ 2. Classification vs Clustering
+Feature	Classification 🧾	Clustering 🧊
+Belongs to	Supervised learning	Unsupervised learning
+Labels available?	Yes (e.g., spam vs not spam)	No (groups are discovered)
+Goal	Assign inputs to predefined classes	Group similar items automatically
+Output	Class labels (discrete)	Cluster labels (arbitrary)
+Evaluation metric	Accuracy, F1, ROC-AUC, etc.	Silhouette Score, Davies-Bouldin, etc.
+Example	Predicting diabetes (0 or 1)	Segmenting customers into types
+
+Task	Classification or Clustering?
+Predict whether a passenger survived Titanic	Classification ✅
+Group customers by shopping behavior	Clustering ✅
+Email spam detection	Classification ✅
+Group news articles by topic (unsupervised)	Clustering ✅
+
+Comparison	Classification	Clustering
+Learning type	Supervised	Unsupervised
+Output	Predefined classes	Discovered clusters
+Input labels	Required	Not required
+Goal	Learn mapping to labels	Learn structure in data
